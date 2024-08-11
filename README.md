@@ -1,7 +1,7 @@
 # VehicleAndSpeedTracking
 Vehicle And Speed Tracking using OpenCV and SuperVision
 \n
-## Project Overview :\n
+## Project Overview :
 - Tracks Different Types of vehicles
 - Assigns colours based on tracker ID
 - Traces the route
@@ -20,6 +20,6 @@ import cv2
 from inference import get_model`
 
 
-To Run:\n
+To Run:
 
 `python3 main.py --source "/path/to/video/file"`
